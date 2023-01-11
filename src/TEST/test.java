@@ -6,5 +6,8 @@ public class test {
         System.out.println("hello java v2");
         System.out.println("hello java v3");
         System.out.println("bug-fix modify");
+        System.out.println("bug-fix modify1");
+        System.out.println("bug-fix modify2");
+
     }
 }
