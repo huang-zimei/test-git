@@ -8,6 +8,9 @@ public class test {
         System.out.println("bug-fix modify");
         System.out.println("master 也修改了第九行");
         System.out.println("master 也修改了第十行");
+        System.out.println("测试推送push....................");
+        System.out.println("测试推送push....................");
+        System.out.println("测试推送push....................");
 
     }
 }
