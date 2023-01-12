@@ -17,6 +17,8 @@ public class test {
         System.out.println("测试推送push5次....................");
         System.out.println("李元修改了代码....................");
         System.out.println("何宇测试了代码....................");
+        System.out.println("李元1修改了代码....................");
+        System.out.println("何宇1测试了代码....................");
 
 
     }
